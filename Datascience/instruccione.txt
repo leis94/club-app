@@ -1,0 +1,16 @@
+los archivos de pruev y prueva son ejemplos de como conectar los codigos 
+para que solo ejecutando una funcion se guarde y retorne la lista de lugares frecuentes 
+y te retorne el precio respectivamente.
+
+dentro del archivo de lugares_frecuente se encuentra solo 'any:0' para que python pueda leer un primer dato
+despues ira cambiando conforme exista una entrada de datos, hay que recordar que este archivo lo utilizo para la permanencia de los datos.
+
+para ejecutar la funcion de precio se nescesita solamente los km del recorrido y 
+tambien el color que marca el trafico de google maps, si se quiere hacer una modificacion a esta
+se puede ir al archivo de precio y en la funcion "TrafficCalculation" ahi se puede modificar lo del trafico.
+
+para calcular el precio por quilometro se cambio un poco ya que pude encontrar cuanto gasta aproximadamente
+un litro de gasolina por km promediando muchos de los factores y utilice ese rango para sacar el promedio, tambien se puede cambiar 
+el costo del litro de gasolina ya que es un dato apreximado eso les dara un valor mas real.
+
+para cualquier otra duda me pueden contatctar :)
